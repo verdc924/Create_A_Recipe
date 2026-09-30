@@ -1,0 +1,31 @@
+
+h1{
+    font-family:Arial;
+    font-size: 100px;
+    word-spacing: 100px;
+    text-align: center;
+    background-color: dodgerblue; width: 100px;
+}
+section{
+    font-style: oblique;
+}
+span{
+  border: 2px solid dimgray;
+  background-color: silver;
+  border-radius: 10px;
+  padding: 5px;
+}
+a{
+    text-decoration-line: none;
+    cursor:pointer;
+}
+p{
+    font-family:Arial;
+    font-size: 20px;
+}
+html{
+    background-color: seashell;
+}
+h1, p{
+    color: brown;
+}
