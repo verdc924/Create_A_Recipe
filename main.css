@@ -1,10 +1,19 @@
-
-h1{
+.intro {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 400px;
+}
+.intro h1{
     font-family:Arial;
     font-size: 100px;
     word-spacing: 100px;
-    text-align: center;
+    text-align: left;
     background-color: dodgerblue; width: 100px;
+}
+.intro img {
+    width: 1000px;
+    height: auto;
 }
 section{
     font-style: oblique;
@@ -18,6 +27,7 @@ span{
 a{
     text-decoration-line: none;
     cursor:pointer;
+
 }
 p{
     font-family:Arial;
